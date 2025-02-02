@@ -2,9 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
         <img  alt="Coding"  width="500" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
-- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Html,css,Javascript,Angular and Java**
+- 💬 Ask me about **Html,css,Javascript,Angular,React and Java**
 
 - 📫 How to reach me **moulyagreddy@gmail.com**
 
