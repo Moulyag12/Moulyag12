@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moulya G</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-        <img  alt="Coding"  width="500" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+        <img  alt="Coding"  width="500" align"center" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 
 - 💬 Ask me about **Html,css,Javascript,Angular,React and Java**
